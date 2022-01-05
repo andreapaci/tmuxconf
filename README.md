@@ -1,1 +1,3 @@
 # tmuxconf
+
+Tmux configuration file
