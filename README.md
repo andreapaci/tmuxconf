@@ -4,7 +4,7 @@ Tmux configuration file
 
 To save the new configuration file type:
 ```
-cd tmuxconf \
+cd tmuxconf
 mv tmux.conf ~/.tmux.conf
 ```
 
